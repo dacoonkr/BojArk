@@ -8,7 +8,7 @@
 | <img src="https://static.solved.ac/tier_small/27.svg" width="24"> |  |
 | <img src="https://static.solved.ac/tier_small/26.svg" width="24"> |  |
 | <img src="https://static.solved.ac/tier_small/25.svg" width="24"> | [2430](src/2430.cpp) |
-| <img src="https://static.solved.ac/tier_small/24.svg" width="24"> | [34208](src/34208.cpp) |
+| <img src="https://static.solved.ac/tier_small/24.svg" width="24"> | [33605](src/33605.cpp) [34208](src/34208.cpp) |
 | <img src="https://static.solved.ac/tier_small/23.svg" width="24"> | [33600](src/33600.cpp) [33601](src/33601.cpp) |
 | <img src="https://static.solved.ac/tier_small/22.svg" width="24"> | [19335](src/19335.cpp) [28059](src/28059.cpp) [30936](src/30936.cpp) [30937](src/30937.cpp) [34590](src/34590.cpp) [34736](src/34736.cpp) [34739](src/34739.cpp) |
 | <img src="https://static.solved.ac/tier_small/21.svg" width="24"> | [14958](src/14958.cpp) [30932](src/30932.cpp) [33007](src/33007.cpp) [33123](src/33123.cpp) |
